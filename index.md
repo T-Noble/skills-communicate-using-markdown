@@ -5,3 +5,10 @@ Guide source is: https://learntocloud.guide/
 #### Adding an image:<br>
 
 ![Screenshot of a random svg picture found online](https://github.com/user-attachments/assets/f8d07684-657c-410e-8883-6fe1bbb326e8)
+
+#### Add a code example
+
+```c#
+string myFirstName = "Trevon";
+string myLastName = "Noble";
+```
