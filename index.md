@@ -12,3 +12,11 @@ Guide source is: https://learntocloud.guide/
 string myFirstName = "Trevon";
 string myLastName = "Noble";
 ```
+#### Make a task list
+
+- [X] <b>Prepare Ingredients:</b> Chop lettuce, tomatoes, onions, and cilantro; shred cheese
+- [X] <b>Cook meat:</b> Brown ground beef or chicken in a pan with taco seasoning
+- [X] <b>Warm Tortillas:</b> Heat soft tortillas in a skillet or microwave, or crisp hard shells in the oven
+- [ ] <b>Assemble Tacos:</b> Add meat to the tortilla, then top with cheese, lettuce, tomatoes, and onions
+- [ ] <b>Add Toppings:</b> Include salsa, sour cream, guacamole, and cilantro to taste
+- [ ] <b>Serve and Enjoy:</b> Plate the tacos and enjoy your meal
